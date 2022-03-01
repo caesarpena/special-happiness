@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { HomeComponent } from './home.component';
-import { HeaderComponent, FooterComponent } from '../layout';
+import { HeaderComponent, FooterComponent } from '../layout/index';
 
 @NgModule({
   declarations: [
