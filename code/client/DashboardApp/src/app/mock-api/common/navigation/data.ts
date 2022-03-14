@@ -8,7 +8,14 @@ export const defaultNavigation: FuseNavigationItem[] = [
         type : 'basic',
         icon : 'heroicons_outline:chart-pie',
         link : '/example'
-    }
+    },
+    {
+        id   : 'apps.file-manager',
+        title: 'File Manager',
+        type : 'basic',
+        icon : 'heroicons_outline:cloud',
+        link : '/apps/file-manager'
+    },
 ];
 export const compactNavigation: FuseNavigationItem[] = [
     {
