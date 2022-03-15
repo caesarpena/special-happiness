@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AnalyzeVideos
-build_property.ProjectDir = C:\Users\cesar\git\media-services-v3-dotnet-tutorials\AMSV3Tutorials\AnalyzeVideos\
+build_property.ProjectDir = C:\Users\cesar\git\special-happiness\code\api\AMSV3Tutorials\AnalyzeVideos\

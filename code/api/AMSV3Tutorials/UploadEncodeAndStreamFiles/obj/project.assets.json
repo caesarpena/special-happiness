@@ -6012,11 +6012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\UploadEncodeAndStreamFiles.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\UploadEncodeAndStreamFiles.csproj",
       "projectName": "UploadEncodeAndStreamFiles",
-      "projectPath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\UploadEncodeAndStreamFiles.csproj",
+      "projectPath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\UploadEncodeAndStreamFiles.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\obj\\",
+      "outputPath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\UploadEncodeAndStreamFiles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6033,8 +6033,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj": {
-              "projectPath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj"
+            "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj": {
+              "projectPath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj"
             }
           }
         }
@@ -6080,24 +6080,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.14, 5.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

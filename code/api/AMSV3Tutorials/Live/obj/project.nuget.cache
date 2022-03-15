@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6zUzmlj88KY8viaAETK75WUH09PTtDAYV19lW4Ak/egJA9DfNrelv1/olDSFzKq+RfwGAlaGMLbOezJFu8PBVA==",
+  "dgSpecHash": "37JFt1n1GHp7BEDgJb8264IbOay/s9qYgzPzUlW/3NiBd//qy+wAEJNsoK8mLFDSk15kCfAzOZDLCaUKqxNCOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\Live\\Live.csproj",
+  "projectFilePath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\Live\\Live.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",
@@ -128,11 +128,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

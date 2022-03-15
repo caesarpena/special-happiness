@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKoz+G0cc56RUiWK1a6JUPL4+kA6CjVZ5jeSSP9JX/y4CHFT0Zjz+nV+Yi7ySxKJ5rMYEmNp+fgX4YxazeuVTw==",
+  "dgSpecHash": "jTW9I3Bfm9rMq8d9c6FkDHAAOlPsU0jT0O5x5zyHRGeXOo/Y6neTpWOfwBRWzX1lvXDcWSfa6bsY1aQl3fyJqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj",
+  "projectFilePath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\Common_Utils\\Common_Utils.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.azure.management.media\\5.0.0\\microsoft.azure.management.media.5.0.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
@@ -93,10 +93,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

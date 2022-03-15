@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08nZO6j/BYjjypQP0m4I4t8d5EO4uQpooCp/Ebl7gt8xektEUYOwpSnhONcEqluPCqOo5WWt1VAHiqpySLGsdQ==",
+  "dgSpecHash": "Pju0jBQHf2YKBD8nniKTDMAXFfIBc9px0D+qvn/p6Slz5CJvlwZ6Y3LywOsq7d63CzpQB1cr/Gvwyx3C1lGwAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesar\\git\\media-services-v3-dotnet-tutorials\\AMSV3Tutorials\\EncryptWithAES\\EncryptWithAES.csproj",
+  "projectFilePath": "C:\\Users\\cesar\\git\\special-happiness\\code\\api\\AMSV3Tutorials\\EncryptWithAES\\EncryptWithAES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",
@@ -114,11 +114,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\cesar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
